@@ -1,7 +1,7 @@
 # Car-Price-Prediction
 
 ## Test It
-Link: [https://car-price-pred.herokuapp.com/] CAR_PRICE_PREDICTION
+Link: [https://imscpp.herokuapp.com/] CAR_PRICE_PREDICTION
 
 [![](https://github.com/GauravRajwada/car-price-prediction/blob/master/Image/car.png)](https://car-price-pred.herokuapp.com/)
 
